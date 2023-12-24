@@ -1,0 +1,4 @@
+name: invisibledeath
+version: '${project.version}'
+main: net.zffu.invisibledeaths.InvisibleDeathPlugin
+api-version: '1.16'

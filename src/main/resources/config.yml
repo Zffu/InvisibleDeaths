@@ -1,0 +1,5 @@
+# The message displayed if the killer is invisible (set to blank to disable the modification)
+invisible-killer-message-format: "%player% was killed by ???"
+
+# If the killer is not invisible (set to blank to disable the modification)
+visible-killer-message-format: "%player% was killer by %attacker%"
